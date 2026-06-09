@@ -62,4 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*created ❤️ with @imrannaseer123 *
+* Created ❤️ with @imrannaseer123 *
