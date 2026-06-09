@@ -1,4 +1,4 @@
-# Distributed Clock Sync
+# Real Time Distributed Clock Sync System
 
 A lightweight Python project that synchronizes system clocks across multiple machines in a distributed network. It ensures consistent timestamps for logging, data collection, and coordinated tasks.
 
@@ -62,4 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Generated on 2026‑06‑09*
+*created ❤️ with @imrannaseer123 *
